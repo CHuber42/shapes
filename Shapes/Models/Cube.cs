@@ -9,7 +9,8 @@ namespace Shapes.Models
     }
     public int GetVolume()
     {
-      return 0;
+     int length = Face.Length;
+     return length * length * length;
     }
   }
 }
