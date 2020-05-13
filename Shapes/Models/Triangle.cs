@@ -11,7 +11,8 @@ namespace Shapes.Models
     }
     public double GetArea()
     {
-      return 0;
+      double area = Height * TriBase * 0.5;
+      return area;
     }
   }
 }
