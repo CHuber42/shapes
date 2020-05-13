@@ -33,7 +33,7 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 ### Specs
 | Spec | Input | Output |
 | :------------- | :------------- | :------------- |
-| **** | User Input:”” | Output: "" |
+| **Backend only exercise** | User Input:”null” | Output: "null" |
 
 ### License
 
