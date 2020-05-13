@@ -10,7 +10,7 @@ namespace Shapes.TestTools
     public void Circle_GetArea_AreaOfCircle()
     {
       Circle newCircle = new Circle(3);
-      int result = newCircle.GetArea();
+      double result = newCircle.GetArea();
       Assert.AreEqual(28.27, result);
     }
   }

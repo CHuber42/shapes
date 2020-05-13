@@ -1,3 +1,5 @@
+using System;
+
 namespace Shapes.Models
 {
   public class Circle
@@ -7,11 +9,12 @@ namespace Shapes.Models
     {
       Radius = radius;
     }
-    public int GetArea()
+    public double GetArea()
     {
-      return 0;
+      double pi = Math.PI;
+      double squared = Math.Pow(Radius, 2);
+      double multiply = pi * squared;
+      return Math.Round(multiply, 2);
     }
-
-    //Math.Round(result, 2);
   }
 }
