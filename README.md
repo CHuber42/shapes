@@ -2,7 +2,7 @@
 
 #### _Epicodus Project May 12, 2020_
 
-#### By _**Jessica Hvozdovich**_
+#### By _**Jessica Hvozdovich and Christopher Huber**_
 
 ## Description
 
@@ -22,7 +22,7 @@ There are no known bugs at the time of this update.
 
 ## Support and contact details
 
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/djzevenbergen/shapes) here on GitHub._
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/jhvozdovich/shapes) here on GitHub._
 
 ## Technologies Used
 
@@ -39,4 +39,4 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jessica Hvozdovich_**
+Copyright (c) 2020 **_Jessica Hvozdovich and Christopher Huber_**
